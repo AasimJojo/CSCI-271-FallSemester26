@@ -1,2 +1,2 @@
-# CSCI-271-Fall26
-My name is Aasim, and what I'll be doing in this class is Assignments and practice codes for CSCI-271: Introduction to Computing &amp; Programming
+I added a variable at the beginning so the other line shows, and the final line is written inside the box at the bottom. I forgot the name. No AI was needed for this task.
+
